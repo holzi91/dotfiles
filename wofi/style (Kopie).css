@@ -1,0 +1,34 @@
+#window {
+#  opacity: 0.8;
+#}
+window {
+border: 1px solid black;
+margin: 5px;
+background-color: #383c4a;
+}
+
+#input {
+    border: 1px solid black;
+    background-color: #4b5162; 
+    font-size: 16px;
+    color: #ccc;
+}
+
+#outer-box {
+    margin: 8px;
+}
+
+#scroll {
+    margin: 5px 0px;
+    font-size: 14px;
+    color: #ccc;
+}
+
+#scroll label {
+    margin: 2px 0px;
+}
+
+#entry:selected {
+	background-color: rgba(--wofi-rgb-color0, 0.94);
+	color: --wofi-color1;
+}

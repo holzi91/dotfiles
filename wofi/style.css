@@ -1,0 +1,42 @@
+#window {
+#  opacity: 0.8;
+#}
+#window {
+    border: 10px #383c4a;
+    background-color: #383c4a;
+    opacity: 0.9;
+}
+
+#input {
+    border: 10px #383c4a;
+    background-color: #383c4a; 
+    font-size: 18px;
+    color: #ccc;
+}
+
+#outer-box {
+    margin: 400px 800px 0px 800px;
+}
+
+#scroll {
+    font-size: 18px;
+    color: #ccc;
+}
+
+#scroll label {
+    margin: 2px 0px;
+}
+
+#entry:selected {
+    background-color: #383c4a;
+}
+list {
+    border: 10px #383c4a;
+    margin: 5px;
+    background-color: #383c4a;
+}
+scrollbar{
+    border: 0px #383c4a;
+    background-color: #383c4a;
+}
+
